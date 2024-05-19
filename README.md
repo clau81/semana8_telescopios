@@ -21,15 +21,15 @@ ___
 
 El telescopio astronómico se entrega en piezas y requiere montaje antes de su uso. Sigue estas instrucciones para ensamblar el telescopio:
 
-1.Ensambla el trípode según las instrucciones proporcionadas.
-2.Conecta la montura del telescopio al trípode.
-3.Ensarta el tubo óptico en la montura y asegúralo con los tornillos proporcionados.
-4.Monta el buscador en el tubo óptico y alinea correctamente el buscador con el telescopio principal.
+1. Ensambla el trípode según las instrucciones proporcionadas.
+2. Conecta la montura del telescopio al trípode.
+3. Ensarta el tubo óptico en la montura y asegúralo con los tornillos proporcionados.
+4. Monta el buscador en el tubo óptico y alinea correctamente el buscador con el telescopio principal.
 ___
 ## Uso
 
 Una vez que el telescopio está montado, sigue estos pasos para comenzar a observar:
 
-1.Apunta el telescopio hacia el objeto celeste que deseas observar.
-2.Ajusta los controles de la montura para seguir el movimiento del objeto a medida que se desplaza por el cielo.
-3.Utiliza los oculares proporcionados para obtener diferentes aumentos y detalles de la observación.
+1. Apunta el telescopio hacia el objeto celeste que deseas observar.
+2. Ajusta los controles de la montura para seguir el movimiento del objeto a medida que se desplaza por el cielo.
+3. Utiliza los oculares proporcionados para obtener diferentes aumentos y detalles de la observación.
